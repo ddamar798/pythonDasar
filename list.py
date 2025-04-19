@@ -31,3 +31,11 @@ nilai = [54,32,24,24,4.5,5.6,8.6,9.7,34.7]
 # nilai.sort()
 nilai.reverse() # <- Nilai yang bertipe Float akan didahulukan.
 #print(nilai)
+
+#==============================================================
+#                         NESTED LIST   
+     
+nestedList = [1,2,3,4,[5,6,7,8]]
+#print (nestedList[4][2])
+contoh2 = [1,2,3,4,5,[6,7,8,[9,10,11,'target',12]]] # Case = Keluarkan 'target'.
+print (contoh2[5][3][3])
