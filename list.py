@@ -30,4 +30,4 @@ daftarSiswa = ['Zidan', 'Zizah', 'Zahra', "Putra", "Putri", "Silvia", "Dewi", "I
 nilai = [54,32,24,24,4.5,5.6,8.6,9.7,34.7]
 # nilai.sort()
 nilai.reverse() # <- Nilai yang bertipe Float akan didahulukan.
-print(nilai)
+#print(nilai)
