@@ -34,8 +34,27 @@ nilai.reverse() # <- Nilai yang bertipe Float akan didahulukan.
 
 #==============================================================
 #                         NESTED LIST   
-     
+
 nestedList = [1,2,3,4,[5,6,7,8]]
 #print (nestedList[4][2])
-contoh2 = [1,2,3,4,5,[6,7,8,[9,10,11,'target',12]]] # Case = Keluarkan 'target'.
-print (contoh2[5][3][3])
+#contoh2 = [1,2,3,4,5,[6,7,8,[9,10,11,'target',12]]] # Case = Keluarkan 'target'.
+#print (contoh2[5][3][3])
+
+#===============================================================
+#                    Lebih dalam tenang List
+
+ganjil = [1,3,5,7,9]
+genap = [2,4,6,8]
+# angka = [ganjil,genap] <- Jika ingi memisah list
+# angka = [ganjil+genap] <- List akan digabungkan
+# print (ganjil,genap)
+
+bilangan = [ganjil,[genap]]
+for i in bilangan:
+    print(i)
+
+    for x in i:
+        print(x)
+
+#print(bilangan)
+print (x)       
