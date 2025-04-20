@@ -18,7 +18,7 @@
 # makanan = ["ayam", "soto", "sop", "sate"]
 # makanan.pop(2) # .POP digunakan untuk memotong sebuah List.
 # print(makanan)
-
+         
 # =============================================================
 #                      Mengurutkan List
 
