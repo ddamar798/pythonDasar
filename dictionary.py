@@ -13,6 +13,9 @@
 #==================================================================
     # Praktek
 
- dict = {'name': 'zara', 'age': 7, 'class': 'first'}
+dict = {'name': 'zara', 'age': 7, 'class': 'first'}
 print ("dict['name']: ", dict['name'])
-print ("dict['age']: ", dict['nge'])
+print ("dict['age']: ", dict['age'])
+
+hewan = dict = {'f1':'ayam'}
+print(hewan)
