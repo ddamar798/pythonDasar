@@ -20,4 +20,6 @@ makanan = dict = {'burger':25000, 'piza':30000, 'ayamGoreng':1500, 'mieAyam':800
 # Mengabungkan Dictionary denggan List.
 
 dict1 = dict = {'x1':'ayam', 'x2':45, 'x3':8.9,'bunga':['mawar', 'melati'], 'buah':{'b1':'apel', 'b2':'jeruk'}}
-print (dict1['buah']['b2'])
+#print (dict1['buah']['b2'])
+
+#print (makanan.keys()) <- Menampilkan keys
