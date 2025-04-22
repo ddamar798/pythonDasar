@@ -23,3 +23,5 @@ dict1 = dict = {'x1':'ayam', 'x2':45, 'x3':8.9,'bunga':['mawar', 'melati'], 'bua
 #print (dict1['buah']['b2'])
 
 #print (makanan.keys()) <- Menampilkan keys
+
+print (makanan.values()) <- Menampilkan Value
