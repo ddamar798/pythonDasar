@@ -13,9 +13,6 @@
 #==================================================================
     # Praktek
 
-dict = {'name': 'zara', 'age': 7, 'class': 'first'}
-print ("dict['name']: ", dict['name'])
-print ("dict['age']: ", dict['age'])
-
-hewan = dict = {'f1':'ayam'}
-print(hewan)
+# Dictionary Biasa.
+makanan = dict = {'burger':25000, 'piza':30000, 'ayamGoreng':1500, 'mieAyam':8000}
+print(makanan['mieAyam'])
