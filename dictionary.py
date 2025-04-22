@@ -16,3 +16,6 @@
 # Dictionary Biasa.
 makanan = dict = {'burger':25000, 'piza':30000, 'ayamGoreng':1500, 'mieAyam':8000}
 print(makanan['mieAyam'])
+
+# Mengabungkan Dictionary denggan List.
+
