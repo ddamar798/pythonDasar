@@ -31,4 +31,4 @@ dict1 = dict = {'x1':'ayam', 'x2':45, 'x3':8.9,'bunga':['mawar', 'melati'], 'bua
 buah = (dict1['buah'])
 bunga = (dict1['bunga'])
 
-print(bunga)
+print(bunga)  
