@@ -5,3 +5,5 @@ cekTipe = type(keranjangT)
 t1 = (1,2,3)
 t1 = t1[0],'rorr',t1[2] # Cara yng tdk efisien, Lebih baik menggunakan looping.
 print (t1)
+
+# Methods di tuples
