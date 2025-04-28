@@ -1,0 +1,1 @@
+#Boolean: Tipe data di python.
