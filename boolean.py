@@ -5,6 +5,7 @@
 # COMPARISON OPERATORS
 
 #   Operator    |   Keterangan
+#  ----------------------------
 #     ==        |   sama dengan
 #     !=        |   tidak sama dengan
 #     >         |   lebih besar dari (eklusif)
