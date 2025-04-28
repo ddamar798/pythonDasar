@@ -12,3 +12,6 @@ x1 = (9,9,9,3,3,3,3,3)
 
 # Sets
 # Sets adalah sebuah tipe data untuk elemen yang bersifat unik (tanpa duplikasi) dan tidak beraturan.
+set_angka = [1,1,1,2,3,3,3,3,3,4,4,4,4,5,5,6,6,6,6,]
+set_angka = set(set_angka)
+print(set_angka)
