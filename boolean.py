@@ -11,4 +11,4 @@
 #     >         |   lebih besar dari (eklusif)
 #     <         |   lebih kecil dari (eklusif)
 #     >=        |   lebih besar dari (inklusif)
-#     <=        |   lebih kecil dari (inklusif)
+#     <=        |   lebih kecil dari (inklusif)    
