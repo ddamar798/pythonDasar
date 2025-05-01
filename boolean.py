@@ -12,3 +12,6 @@
 #     <         |   lebih kecil dari (eklusif)
 #     >=        |   lebih besar dari (inklusif)
 #     <=        |   lebih kecil dari (inklusif)
+
+angka = 3+7 > 2+8
+print(angka)     
