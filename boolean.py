@@ -19,4 +19,5 @@
 #===============================
 # COMPARISON OPERATORS BERANTAI
 #===============================
-
+angka1 = 3<4 and 4>3 #menghasilkan 'True'. "and" harus kedua Value benar untuk menghasilkan True.
+print(angka1)
