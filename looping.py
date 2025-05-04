@@ -5,5 +5,10 @@
 # for (item) in (items):
 #     esekusi perintah
 #============================================================
-for i in 'Nama saya Damar':
-    print(i)
+# for i in 'Nama saya Damar':
+#     #print(i)
+
+
+angka = [1,2,3,4,5,7,8,9]
+# for isi in angka:
+#     print(isi)
