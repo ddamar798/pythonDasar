@@ -9,12 +9,12 @@
 #     #print(i)
 
 
-angka = [1,2,3,4,5,7,8,9]
+# angka = [1,2,3,4,5,7,8,9]
+# # for isi in angka:
+# #     print(isi)
+
+# jumlah = 0
+
 # for isi in angka:
-#     print(isi)
-
-jumlah = 0
-
-for isi in angka:
-    jumlah = jumlah + isi
-    print('Hasil dari looping ke {} adalah {}' . format(isi,jumlah))
+#     jumlah = jumlah + isi
+#     print('Hasil dari looping ke {} adalah {}' . format(isi,jumlah))
