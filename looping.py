@@ -23,7 +23,7 @@
 #           Penggunaan Looping dan conditionals
 #===============================================================
 
-# *Case mencari angka ganjol genap dalam variable angka
+# *Case mencari angka ganjol genap dalam variable angka.
 angka = [1,2,3,4,5,6,7,8,9,10]
 
 for item in angka:
