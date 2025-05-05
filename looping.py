@@ -18,3 +18,8 @@
 # for isi in angka:
 #     jumlah = jumlah + isi
 #     print('Hasil dari looping ke {} adalah {}' . format(isi,jumlah))
+
+#===============================================================
+#           Penggunaan Looping dan conditionals
+#===============================================================
+
