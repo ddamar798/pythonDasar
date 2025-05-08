@@ -43,4 +43,17 @@ for item in angka:
 
 # CODE :
 # while (sebuah kondisi = True):
-# esekusi
+#   esekusi
+
+indeks = 0
+while True:
+    print('Looping berhasil')
+    indeks +=1
+    if indeks == 10:
+        break
+        
+x = 0
+
+while x < 50:
+    print('Bilanganya adalah ', x)
+    x += 5
