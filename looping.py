@@ -36,3 +36,7 @@ for item in angka:
 #=============================================
 #                   WHILE
 #=============================================
+# Ada tiga Arumen yang bisa digunakan :
+# 1. break = menghentikan looping
+# 2. continue = melanjutkan looping ke iterator selanjutnya dan melewati iterator saat ini
+# 3. pass = tidak melakukan apa apa
