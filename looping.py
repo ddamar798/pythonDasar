@@ -24,13 +24,13 @@
 #===============================================================
 
 # *Case mencari angka ganjol genap dalam variable angka.
-angka = [1,2,3,4,5,6,7,8,9,10]
+# angka = [1,2,3,4,5,6,7,8,9,10]
 
-for item in angka:
-    if item%2 == 0:   
-        print('Angka {} adalah angka Genap!', format(item)) 
-    else :
-        print ('Angka {} adalah angka Ganjil!', format(item))
+# for item in angka:
+#     if item%2 == 0:   
+#         print('Angka {} adalah angka Genap!', format(item)) 
+#     else :
+#         print ('Angka {} adalah angka Ganjil!', format(item))
 
 
 #=============================================
@@ -47,7 +47,7 @@ for item in angka:
 
 indeks = 0
 while True:
-    print('Looping berhasil')
+    #print('Looping berhasil')
     indeks +=1
     if indeks == 10:
         break
@@ -55,5 +55,14 @@ while True:
 x = 0
 
 while x < 50:
-    print('Bilanganya adalah ', x)
+    #print('Bilanganya adalah ', x)
     x += 5
+
+number = [1,2,3,4,5,6,7,8,9,10]
+
+for item in number:
+    if item%2 == 0:
+        continue
+    else:
+        print('angka ganjil adalah ', item)
+        
