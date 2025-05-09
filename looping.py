@@ -60,9 +60,14 @@ while x < 50:
 
 number = [1,2,3,4,5,6,7,8,9,10]
 
+# for item in number:
+#     if item%2 == 0:
+#         continue
+#     else:
+       # print('angka ganjil adalah ', item)
+
 for item in number:
-    if item%2 == 0:
+    if item%2 != 0:
         continue
     else:
-        print('angka ganjil adalah ', item)
-        
+        print('Ini adalah angka genap = ', item)
