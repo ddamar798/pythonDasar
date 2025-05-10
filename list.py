@@ -57,4 +57,5 @@ for i in bilangan:
         print(x)
 
 #print(bilangan)
-print (x)       
+#print (x)       
+
