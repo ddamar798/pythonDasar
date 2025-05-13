@@ -14,4 +14,9 @@ def dekteksiAngka(num1):
     else :
         print("Angka yang anda masukan angka Ganjil")
 '''
+
+# TANTANGAN :
+    # BUAT SEBUAH FUNGSI YG BISA MEMBERIKAN NILAI TRUE JIKA BISA MENEMUKAN KATA 'Python'!
+    
+def trueorfalse(kata):
 print(dekteksiAngka(2))
