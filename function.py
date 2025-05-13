@@ -7,4 +7,11 @@ print(test)
 def perkalian(num1,num2):
     return num1*num2
 
-print(perkalian(4,5,))
+
+def dekteksiAngka(num1):
+    if num1%2 == 0:
+        print("Angka yang anda masukan adalah angka Genap")
+    else :
+        print("Angka yang anda masukan angka Ganjil")
+
+print(dekteksiAngka(2))
