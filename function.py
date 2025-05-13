@@ -17,6 +17,15 @@ def dekteksiAngka(num1):
 
 # TANTANGAN :
     # BUAT SEBUAH FUNGSI YG BISA MEMBERIKAN NILAI TRUE JIKA BISA MENEMUKAN KATA 'Python'!
+'''  
+masukanKata = input('Masukan Kalimat Yang Diminta :')
+def trueORfalse(fungsi):
     
-def trueorfalse(kata):
-print(dekteksiAngka(2))
+    if 'Python' in masukanKata:
+        return True
+    else:
+        return False
+
+print(trueORfalse(masukanKata))
+'''
+# !!!  TANTANGAN BERHASILL !!!
