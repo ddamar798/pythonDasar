@@ -29,3 +29,12 @@ def trueORfalse(fungsi):
 print(trueORfalse(masukanKata))
 '''
 # !!!  TANTANGAN BERHASILL !!!
+'''
+# Lebih Ringkas :
+
+masukan = input("masukan kata yang diminta:")
+def masukanKata(kata):
+    return 'Python'.lower() in kata
+    
+print(masukanKata(masukan))
+'''
