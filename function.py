@@ -21,7 +21,7 @@ def dekteksiAngka(num1):
 masukanKata = input('Masukan Kalimat Yang Diminta :')
 def trueORfalse(fungsi):
     
-    if 'Python' in masukanKata:
+    if 'Python'.lower() in masukanKata:
         return True
     else:
         return False
